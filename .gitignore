@@ -1,0 +1,35 @@
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python & Jupyter
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Environnement (uv / venv)
+.venv/
+.uv/
+# .python-version  
+
+# Données et Modèles (Lourds)
+*.json
+*.csv
+*.pt
+*.pth
+*.onnx
+data/
+outputs/
+
+# IDE
+.vscode/
+.idea/
+
+croissant/
+Anno/
+Img/
+Documentation/
