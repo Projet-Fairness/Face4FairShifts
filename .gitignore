@@ -32,4 +32,8 @@ outputs/
 croissant/
 Anno/
 Img/
-Documentation/
+Documentation/Data/
+.venv
+corr_tp/
+Anno/
+croissant/
